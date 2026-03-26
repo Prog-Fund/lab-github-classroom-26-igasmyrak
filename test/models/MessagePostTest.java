@@ -34,4 +34,6 @@ class MessagePostTest {
         assertEquals("Wait.. Wait..", messagePost2.getMessage());
         //TODO  test when try to set a message that's too long
     }
+
+    //Change to file to test push
 }
